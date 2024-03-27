@@ -1,8 +1,7 @@
-# Data Science & AI Undergraduate
+# My Projects
 
-###Education
-Al Hussein Technical University (HTU): BASc Information Science 3.7 GPA 
+##Machine Learning
 
-###Projects
-**Crop production prediction based on historical weather data with PySpark**
+
+
 
