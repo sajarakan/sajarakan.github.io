@@ -1,3 +1,2 @@
 # My Projects
-Attached are my top 3 projects I have worked on through out my university degree that focus on ML / AI / data visualsition, EDA, and cleaning.
-Each repository contains a Python notebook accompanied by a corresponding report, providing necessary background information and explanations for each project.
+This repository contains a collection of projects I have completed during my bachelor's degree, focusing on various aspects of data science, including Machine Learning (ML), Artificial Intelligence (AI), data visualization, Business Intelligence (BI), Exploratory Data Analysis (EDA), and data cleaning. Each project includes relevant files such as Python notebooks, reports, and other necessary documentation that provide background information and detailed explanations.
